@@ -22,8 +22,8 @@ Currently pursuing B.A.S. in Applied Cybersecurity & Digital Forensics at Highli
 ## 🚀 Featured Projects
 
 | Project | Description | Stack |
-| [SentinelOps-DR](https://github.com/Alongiti2/sentinelops-dr) | Cloud-agnostic Detection & Response platform: rule lifecycle scoring, K8s-native detections, SOAR playbooks, AI-assisted triage | Python, MITRE ATT&CK, OCSF schema, Claude API |
 |---|---|---|
+| [SentinelOps-DR](https://github.com/Alongiti2/sentinelops-dr) | Cloud-agnostic Detection & Response platform: rule lifecycle scoring, K8s-native detections, SOAR playbooks, AI-assisted triage | Python, MITRE ATT&CK, OCSF schema, Claude API |
 | [GenAI Security Toolkit](https://github.com/Alongiti2/genai-security-toolkit) | OWASP GenAI Top 10 scanner + TPRM automation | Python, Docker, GitHub Actions |
 | [CIS 410 DevSecOps Pipeline](https://github.com/Alongiti2/cis-410-cybersecurity-automation) | CI/CD with Snyk, OWASP ZAP, Terraform on GCP | Terraform, GCP, Docker |
 | [Capstone — AI Cloud Security](https://github.com/Alongiti2/cis410-capstone-group-project) | Group security architecture project | Cloud Security |
